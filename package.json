@@ -1,7 +1,7 @@
 {
   "name": "time-later",
-  "version": "0.1.0",
-  "description": "promise of some time later",
+  "version": "0.1.1",
+  "description": "returns a bluebird promise delayed specified amount of time",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
